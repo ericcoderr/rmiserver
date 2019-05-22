@@ -13,6 +13,3 @@
 
 
 - k8s node port 32101 ,rmi 1099 service port 1099  target port 1099 这样可以访问
-
-
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDmsNx//pz8rsxvPsoPC7BjVB2F2FwNBLw8iCc5dAMw+plmH73oIfaLjSDSocQxuVwX3HptbbaCwSTDKVtNcbUqy1/dGL7MjQGHVFgO7owVIWowclWqIPOYsPM1Dfd8NzGrve3+WJrRgZnlCfO4N79XT6gzi/TKeGl40AwTeDGLfhpl9ZTzpu8/si+Ow0b3yaztUifIBHzy6WJLzbcK3TSoGFHpZPoqTrMVJfrlxBX07vQyujXzdTW19ovm0J3iTlEspeYo03Z8xjJ/SS3SrP/9kUBa2wpTsFq1wlTyVfDATGR5iFQvOdEcUypiM46MdvO6ImA0U483+5LwdJf7B7qV Eric Huang
